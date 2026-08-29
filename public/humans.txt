@@ -1,0 +1,9 @@
+/* TEAM */
+Owner: nublado
+Design & engineering: Tomasz Pawlak
+Location: Poland
+
+/* SITE */
+Project: Masarnia Brusy Gierszewscy — portal zamówień B2B
+Stack: Next.js, React, TypeScript, Tailwind CSS
+Hosting: Vercel
