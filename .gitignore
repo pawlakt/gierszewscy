@@ -1,0 +1,44 @@
+# dependencies
+node_modules/
+
+# next.js build output
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# vercel
+.vercel/
+.vercel
+
+# env files
+.env
+.env.*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-*.log
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# AI tooling (lokalne konfiguracje asystentów — nie wersjonujemy)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.cursor/
+.cursorrules
+.aider*
+.copilot/
+.windsurfrules
+
+# design sources (nie trafiają do repo — assety są w src/images)
+mockup.html
+KIEŁBASA FABIANA.zip
+*.zip
